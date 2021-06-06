@@ -1,0 +1,6 @@
+Package: PMChen
+Encoding: UTF-8
+Type: Package
+Title: Five methods for my input data
+Version: 0.0.1.0
+RoxygenNote: 7.1.1
